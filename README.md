@@ -1,2 +1,2 @@
 # Statistics-Mini-Project
-2 Different Questionss in 1 notebook
+2 Different Questions in 1 notebook
